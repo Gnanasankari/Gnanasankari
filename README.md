@@ -10,7 +10,7 @@
 
 ---
 
-### 💻 I Code In
+### 👩‍💻 I Code In 💯
 <p>
   <img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>  
   <img height="50" width="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>  
@@ -20,14 +20,14 @@
 
 ---
 
-### 🛠 IDE & Tools I Use
+### 🛠 IDE & Tools I Use 💥
 <p>
   <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>  
 </p>
 
 ---
 
-### 📊 GitHub & LeetCode Stats  
+### 📊 GitHub & LeetCode Stats 📌
 ![Gnanasankari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnanasankari&theme=dark&show_icons=true&hide=issues,contribs)  
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Gnanasankari?ext=contest&theme=dark)](https://leetcode.com/u/Gnanasankari/)  
