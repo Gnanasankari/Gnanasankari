@@ -30,7 +30,7 @@
 ### 📊 GitHub & LeetCode Stats 📌
 ![Gnanasankari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnanasankari&theme=dark&show_icons=true&hide=issues,contribs)  
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Gnanasankari?ext=contest&theme=dark)](https://leetcode.com/u/Gnanasankari/)  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Gnanasankari?ext=contest)](https://leetcode.com/u/Gnanasankari/)  
 
 ---
 
