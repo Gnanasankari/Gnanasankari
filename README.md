@@ -22,7 +22,8 @@
 
 ### 🛠 IDE & Tools I Use 💥
 <p>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>  
+  <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/> 
+  <img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
 </p>
 
 ---
